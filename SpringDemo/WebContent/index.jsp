@@ -7,6 +7,8 @@
 <title>Registration form</title>
 </head>
 <body>
-
+UserName:<input type="text" name="username">
+Password:<input type="password" name="pass">
+<input type="button" value="Login">
 </body>
 </html>
